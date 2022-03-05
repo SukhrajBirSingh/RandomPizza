@@ -7,8 +7,7 @@ Have you ever got confused about what toppings to add to your pizza! This app wi
 
 
 <p float = "left" padding = 30px>
-<Img src = "Screenshot/1.png" width = "150" hspace = "10">
-<Img src = "Screenshot/2.png" width = "150" hspace = "10">
-<Img src = "Screenshot/3.png" width = "150" hspace = "10">
+<Img src = "https://github.com/SukhrajBirSingh/RandomPizza/blob/main/Apple%20iPhone%2011%20Pro%20Max%20Presentation-3.png?raw=true">
+
 
 </p>
